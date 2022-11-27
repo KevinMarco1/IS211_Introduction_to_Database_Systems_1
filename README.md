@@ -1,1 +1,1 @@
-# IS211_Introduction_to_Database_Systems_1
+# IS211_Introduction_to_Database_Systems
